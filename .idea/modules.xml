@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/clase 30-9-22/clase 30-9-22.iml" filepath="$PROJECT_DIR$/clase 30-9-22/clase 30-9-22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase05-10-2022/clase05-10-2022.iml" filepath="$PROJECT_DIR$/clase05-10-2022/clase05-10-2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio 1/ejercicio 1.iml" filepath="$PROJECT_DIR$/ejercicio 1/ejercicio 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ejercicios java con intellij.iml" filepath="$PROJECT_DIR$/.idea/ejercicios java con intellij.iml" />
+    </modules>
+  </component>
+</project>
