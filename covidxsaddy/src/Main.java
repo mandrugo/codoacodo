@@ -79,8 +79,10 @@ public class Main {
                     break;
 
 
-                case 7:
-
+                case 7: dni = JOptionPane.showInputDialog("Ingresa el dni a Eliminar")
+                    for (Persona p: participantesEvento) {
+                        if ()
+                    }
 
                 case 8:
                     System.out.println(participantesEvento);

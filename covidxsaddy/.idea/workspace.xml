@@ -2,55 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4be7f800-06d8-43bc-b29b-bc93fce2be5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/ejercicios java con intellij.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjercicioCovid/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjercicioCovid/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjercicioCovid/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjercicioCovid/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjercicioCovid/EjercicioCovid.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjercicioCovid/Proyecto1811/Proyecto1811.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../calse 28-10-22/calse 28-10-22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clase 09-11-2022/clase 09-11-2022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clase 11-11-22/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clase 11-11-22/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clase 11-11-22/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clase 11-11-22/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clase 11-11-22/clase 11-11-22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clase 11-11-22/src/notas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clase 14-10-2/clase 14-10-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clase 16-11-22/clase 16-11-22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clase 19.-10.22/clase 19.-10.22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clase 21-10-22/clase 21-10-22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clase 23-11-22/clase 23-11-22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clase 23-11-22/src/edu/codoacodo/Pelota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clase 23-11-22/src/edu/codoacodo/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clase 25-10-25 1/clase 25-10-25 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clase 30-9-22/clase 30-9-22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clase05-10-2022/clase05-10-2022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../covid/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../covid/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../covid/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../covid/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../covid/covid.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../covid/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../covid/src/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/covidxsaddy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cac/covid/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejercicio 2 clase 5-10-22/ejercicio 2 clase 5-10-22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejercicio 3 clase 5-10-22/ejercicio 3 clase 5-10-22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejercicio1 de la clase 5-10-22/ejercicio1 de la clase 5-10-22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../extra de 09-11-2022/extra de 09-11-2022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../miPrimerFuncionJava/miPrimerFuncionJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mundial/mundial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nqwrahbqwrhrhqw/nqwrahbqwrhrhqw.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practica/practica.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../trabajo obligatorio/trabajo obligatorio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../verificarusurariocontrasenia/verificarusurariocontrasenia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clase 30-11-22/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clase 30-11-22/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clase 30-11-22/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/cursos/codo a codo"
+    "last_opened_file_path": "D:/cursos/ejercicios java con intellij/covidxsaddy"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
